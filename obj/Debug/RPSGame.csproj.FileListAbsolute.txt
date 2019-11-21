@@ -1,0 +1,30 @@
+C:\Users\HP\Desktop\AssignmentGame\RPSGame\RPSGame\bin\Debug\RPSGame.exe.config
+C:\Users\HP\Desktop\AssignmentGame\RPSGame\RPSGame\bin\Debug\RPSGame.exe
+C:\Users\HP\Desktop\AssignmentGame\RPSGame\RPSGame\bin\Debug\RPSGame.pdb
+C:\Users\HP\Desktop\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.Form1.resources
+C:\Users\HP\Desktop\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.Properties.Resources.resources
+C:\Users\HP\Desktop\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.exe
+C:\Users\HP\Desktop\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.pdb
+C:\Users\HP\Desktop\regame\AssignmentGame\RPSGame\RPSGame\bin\Debug\RPSGame.exe.config
+C:\Users\HP\Desktop\regame\AssignmentGame\RPSGame\RPSGame\bin\Debug\RPSGame.exe
+C:\Users\HP\Desktop\regame\AssignmentGame\RPSGame\RPSGame\bin\Debug\RPSGame.pdb
+C:\Users\HP\Desktop\regame\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\regame\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.Form1.resources
+C:\Users\HP\Desktop\regame\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.Properties.Resources.resources
+C:\Users\HP\Desktop\regame\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\regame\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\regame\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.exe
+C:\Users\HP\Desktop\regame\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.pdb
+C:\Users\HP\Desktop\regame\Mallik,MD Mridul (16-32542-2).zip\AssignmentGame\RPSGame\RPSGame\bin\Debug\RPSGame.exe.config
+C:\Users\HP\Desktop\regame\Mallik,MD Mridul (16-32542-2).zip\AssignmentGame\RPSGame\RPSGame\bin\Debug\RPSGame.exe
+C:\Users\HP\Desktop\regame\Mallik,MD Mridul (16-32542-2).zip\AssignmentGame\RPSGame\RPSGame\bin\Debug\RPSGame.pdb
+C:\Users\HP\Desktop\regame\Mallik,MD Mridul (16-32542-2).zip\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\regame\Mallik,MD Mridul (16-32542-2).zip\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.Form1.resources
+C:\Users\HP\Desktop\regame\Mallik,MD Mridul (16-32542-2).zip\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.Properties.Resources.resources
+C:\Users\HP\Desktop\regame\Mallik,MD Mridul (16-32542-2).zip\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\regame\Mallik,MD Mridul (16-32542-2).zip\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\regame\Mallik,MD Mridul (16-32542-2).zip\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.exe
+C:\Users\HP\Desktop\regame\Mallik,MD Mridul (16-32542-2).zip\AssignmentGame\RPSGame\RPSGame\obj\Debug\RPSGame.pdb
